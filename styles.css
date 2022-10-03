@@ -1,0 +1,27 @@
+h1 {
+color: rgb(29, 119, 125);
+font-family: 'Courier New', Courier, monospace;
+
+}
+
+p {
+    font-size: medium;
+}
+
+.hobbies {
+
+color: blueviolet;
+}
+
+.img {
+
+height: 274px;
+width:640px
+
+}
+
+#twitter {
+
+color: darkorange;
+
+}
